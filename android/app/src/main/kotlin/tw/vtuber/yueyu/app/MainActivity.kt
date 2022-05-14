@@ -1,0 +1,6 @@
+package tw.vtuber.yueyu.app
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity : FlutterActivity() {
+}
